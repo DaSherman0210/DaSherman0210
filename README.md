@@ -2,9 +2,11 @@
 <h3 align="center">I'm a passionate web developer from Colombia</h3>
 
 - 🔭 I’m currently working on CampusLands **Campus**
+<br>
   <div align="center">
-  <a href="#"><img src="https://media.tenor.com/ZJT4S4lpfpIAAAAd/perro-bailando.gif" alt="dino-run-ending" border="0" ></a>
+  <a href="#"><img src="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" alt="dino-run-ending" border="0" ></a>
   </div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/german torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="german torres" height="30" width="40" /></a>
