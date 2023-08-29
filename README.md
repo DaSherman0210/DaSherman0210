@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on CampusLands **Campus**
 <br>
   <div align="center">
-  <a href="#"><img src="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" alt="dino-run-ending" border="0" width="200px"></a>
+  <a href="#"><img src="https://deukaentropy.carrd.co/assets/images/gallery01/0beec77d.gif?v=acea08b1" alt="dino-run-ending" border="0" width="200px"></a>
   </div>
   
 <h3 align="left">Connect with me:</h3>
