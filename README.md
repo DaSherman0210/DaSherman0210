@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm German Torres</h1>
 <h3 align="center">I'm a passionate web developer from Colombia</h3>
 
-- 🔭 I’m currently working on CampusLands **Campus**
+- 🔭 I’m currently studying in the UIS
 <br>
   <div align="center">
   <a href="#"><img src="https://deukaentropy.carrd.co/assets/images/gallery01/0beec77d.gif?v=acea08b1" alt="dino-run-ending" border="0" width="200px"></a>
